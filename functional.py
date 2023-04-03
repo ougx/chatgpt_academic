@@ -63,8 +63,8 @@ def get_functionals():
                         r"然后请使用Markdown格式封装，并且不要有反斜线，不要用代码块。现在，请按以下描述给我发送图片：" + "\n\n",
             "Suffix":   r"",
         },
-        "解释代码": {
-            "Prefix":   r"请解释以下代码：" + "\n```\n",
+        "Explain code": {
+            "Prefix":   r"Please explain code below：" + "\n```\n",
             "Suffix":   "\n```\n",
         },
     }
